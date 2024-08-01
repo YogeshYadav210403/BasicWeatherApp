@@ -6,7 +6,10 @@ This is amazing weather app which uses open weather api and it can fetch the wea
 2. Location-Based Weather: Automatically provides weather updates for the user's current location using device GPS.
 3. City Search: Allows users to search for and view weather information for specific cities.
 
-### Screenshots
+## Screenshots
 
-![Home Screen](.png)
-![Weather Details](.png)
+### Loadind Weather Screen
+<img src="loading.jpg" alt="Loadind Weather Screen" width="400"/>
+
+### Weather Details
+<img src="weather.jpg" alt="Weather Details" width="400"/>
